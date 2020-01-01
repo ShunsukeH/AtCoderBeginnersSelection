@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC086A_Product", "ABC086A_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC081A_PlacingMarbles", "ABC081A_PlacingMarbles\ABC081A_PlacingMarbles.csproj", "{4EFB9D7A-F634-4791-BAE1-63E0B1A68790}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC081B_ShiftOnly", "ABC081B_ShiftOnly\ABC081B_ShiftOnly.csproj", "{4758F93B-6C27-44D8-A868-83E605902B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{4EFB9D7A-F634-4791-BAE1-63E0B1A68790}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4EFB9D7A-F634-4791-BAE1-63E0B1A68790}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4EFB9D7A-F634-4791-BAE1-63E0B1A68790}.Release|anycpu.Build.0 = Release|anycpu
+		{4758F93B-6C27-44D8-A868-83E605902B36}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4758F93B-6C27-44D8-A868-83E605902B36}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4758F93B-6C27-44D8-A868-83E605902B36}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4758F93B-6C27-44D8-A868-83E605902B36}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
