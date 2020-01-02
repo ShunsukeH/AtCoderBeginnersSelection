@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC087B_Coins", "ABC087B_Coins\ABC087B_Coins.csproj", "{95CF71BD-7F94-43A9-BC69-F73E8EB46B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -30,5 +32,9 @@ Global
 		{4758F93B-6C27-44D8-A868-83E605902B36}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4758F93B-6C27-44D8-A868-83E605902B36}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4758F93B-6C27-44D8-A868-83E605902B36}.Release|anycpu.Build.0 = Release|anycpu
+		{95CF71BD-7F94-43A9-BC69-F73E8EB46B44}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{95CF71BD-7F94-43A9-BC69-F73E8EB46B44}.Debug|anycpu.Build.0 = Debug|anycpu
+		{95CF71BD-7F94-43A9-BC69-F73E8EB46B44}.Release|anycpu.ActiveCfg = Release|anycpu
+		{95CF71BD-7F94-43A9-BC69-F73E8EB46B44}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
