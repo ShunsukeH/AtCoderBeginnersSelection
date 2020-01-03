@@ -15,3 +15,9 @@ AtCoder 過去問精選10問をC#で解く。
 
 - ABC083B
   - 10進整数の各桁の和の求め方。
+
+- ABC088B
+  - LINQ で配列操作をして31ms。
+    - sortはArray.sortを使うのが良さそう。
+  - string[] -> int[]への変換も、Array.ConvertAllをつかえそう。
+  - List<int>にしてList.Sort()でもよかったかも。そんなに遅くないっぽい

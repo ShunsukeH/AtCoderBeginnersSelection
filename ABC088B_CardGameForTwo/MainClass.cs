@@ -8,13 +8,10 @@ namespace ABC088B_CardGameForTwo
         public static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            string[] inp = Console.ReadLine().Split(' ');
-            int[] cards = new int[n];
-            for (int i = 0; i < n; i++)
-            {
-                cards[i] = int.Parse(inp[i]);
-            }
-            cards = cards.OrderByDescending(e => e).ToArray();
+            int[] cards = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);
+
+            Array.Sort(cards);
+            Array.Reverse(cards);
 
             int aliceTotal = 0;
             int bobTotal = 0;

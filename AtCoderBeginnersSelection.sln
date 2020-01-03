@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC087B_Coins", "ABC087B_Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC083B_SomeSums", "ABC083B_SomeSums\ABC083B_SomeSums.csproj", "{DA32A3DD-FD6D-42E6-9A96-3487D151EDFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC088B_CardGameForTwo", "ABC088B_CardGameForTwo\ABC088B_CardGameForTwo.csproj", "{4018038E-8FA1-428F-B82F-6D22333106FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -42,5 +44,9 @@ Global
 		{DA32A3DD-FD6D-42E6-9A96-3487D151EDFA}.Debug|anycpu.Build.0 = Debug|anycpu
 		{DA32A3DD-FD6D-42E6-9A96-3487D151EDFA}.Release|anycpu.ActiveCfg = Release|anycpu
 		{DA32A3DD-FD6D-42E6-9A96-3487D151EDFA}.Release|anycpu.Build.0 = Release|anycpu
+		{4018038E-8FA1-428F-B82F-6D22333106FA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4018038E-8FA1-428F-B82F-6D22333106FA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4018038E-8FA1-428F-B82F-6D22333106FA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4018038E-8FA1-428F-B82F-6D22333106FA}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
