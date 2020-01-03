@@ -13,3 +13,5 @@ AtCoder 過去問精選10問をC#で解く。
   - for loop で素朴に実装。20ms。
   - Console.ReadLine() を wrap して Reader class をつくったほうがよさそう？ parse intとかSplitとか毎回書くのは時間がかかる。
 
+- ABC083B
+  - 10進整数の各桁の和の求め方。
