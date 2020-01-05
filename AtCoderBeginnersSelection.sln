@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC083B_SomeSums", "ABC083B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC088B_CardGameForTwo", "ABC088B_CardGameForTwo\ABC088B_CardGameForTwo.csproj", "{4018038E-8FA1-428F-B82F-6D22333106FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC085B_KagamiMochi", "ABC085B_KagamiMochi\ABC085B_KagamiMochi.csproj", "{1584D7CB-382A-466C-9ACB-A329B417F27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC085C_Otoshidama", "ABC085C_Otoshidama\ABC085C_Otoshidama.csproj", "{C9309B5F-12F6-4C41-9280-324B049280FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -48,5 +52,13 @@ Global
 		{4018038E-8FA1-428F-B82F-6D22333106FA}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4018038E-8FA1-428F-B82F-6D22333106FA}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4018038E-8FA1-428F-B82F-6D22333106FA}.Release|anycpu.Build.0 = Release|anycpu
+		{1584D7CB-382A-466C-9ACB-A329B417F27B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1584D7CB-382A-466C-9ACB-A329B417F27B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1584D7CB-382A-466C-9ACB-A329B417F27B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1584D7CB-382A-466C-9ACB-A329B417F27B}.Release|anycpu.Build.0 = Release|anycpu
+		{C9309B5F-12F6-4C41-9280-324B049280FB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C9309B5F-12F6-4C41-9280-324B049280FB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C9309B5F-12F6-4C41-9280-324B049280FB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C9309B5F-12F6-4C41-9280-324B049280FB}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
