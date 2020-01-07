@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC085C_Otoshidama", "ABC08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC049C_Daydream", "ABC049C_Daydream\ABC049C_Daydream.csproj", "{42BFDA23-F2F3-4530-AFFD-747A47F1DC29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC086C_Traveling", "ABC086C_Traveling\ABC086C_Traveling.csproj", "{394AA1F4-241F-4ECB-BEDC-A5CA0080E9AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -67,6 +69,10 @@ Global
 		{42BFDA23-F2F3-4530-AFFD-747A47F1DC29}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{42BFDA23-F2F3-4530-AFFD-747A47F1DC29}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{42BFDA23-F2F3-4530-AFFD-747A47F1DC29}.Release|anycpu.Build.0 = Release|Any CPU
+		{394AA1F4-241F-4ECB-BEDC-A5CA0080E9AF}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{394AA1F4-241F-4ECB-BEDC-A5CA0080E9AF}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{394AA1F4-241F-4ECB-BEDC-A5CA0080E9AF}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{394AA1F4-241F-4ECB-BEDC-A5CA0080E9AF}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
