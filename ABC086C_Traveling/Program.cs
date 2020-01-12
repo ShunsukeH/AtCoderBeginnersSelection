@@ -31,7 +31,7 @@ namespace ABC086C_Traveling
                     break;
                 }
             }
-            Console.WriteLine(result ? "YES" : "NO");
+            Console.WriteLine(result ? "Yes" : "No");
         }
     }
 }
